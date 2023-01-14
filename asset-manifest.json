@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/tailwind-website/static/css/main.27d6d958.css",
+    "main.js": "/tailwind-website/static/js/main.a020fb86.js",
+    "static/media/drive.png": "/tailwind-website/static/media/drive.6bd20e182296ea68fb9b.png",
+    "index.html": "/tailwind-website/index.html",
+    "main.27d6d958.css.map": "/tailwind-website/static/css/main.27d6d958.css.map",
+    "main.a020fb86.js.map": "/tailwind-website/static/js/main.a020fb86.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27d6d958.css",
+    "static/js/main.a020fb86.js"
+  ]
+}
